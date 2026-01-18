@@ -1,5 +1,15 @@
 ## Hi there 👋
 
+I'm Michael, a Full-Stack Developer based in London.
+
+I design and build whatever projects interest me.
+
+My main tech stack is React, Typescript, node and python.
+
+I've got a lot of projects but my favourite is my AI fruit classification project [(QualityLens)](https://github.com/Mickman7/QualityLens).
+
+I started coding in 2019 and since i have completed my Bachlors in Computer Science and am currently doing a Masters in Artificial Intelligence.
+
 <!--
 **Mickman7/Mickman7** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
