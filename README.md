@@ -30,6 +30,9 @@ Here are some ideas to get you started:
 <h1 align="center">Hi 👋, I'm Michael</h1>
 <h3 align="center">A Full-Stack Developer based in London.</h3>
 
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=mickman7&label=Profile%20views&color=0e75b6&style=flat" alt="mickman7" /> </p>
+
+
 - 🔭 I’m currently working on: [QualityLens](https://github.com/Mickman7/QualityLens)
 
 - 🌱 I’m currently learning: **PyTorch and TensorFlow**
